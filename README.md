@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaFour
 - 👀 I’m interested in everything programming.
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on projects that might help me improve my skills.se
+- 💞️ I’m looking to collaborate on projects that might help me improve my skills.
 - 📫 How to reach me on twitter : @seven_shaz
 
 <!---
